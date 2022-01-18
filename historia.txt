@@ -1,1 +1,5 @@
-Este es un archivo de prueba del curso profesional de GIt y GitHub
+Hola, soy Jhonatan, tengo 25 años y estoy aprendiendo a usar Git con Platzi.
+
+Este es el primer archivo base.
+
+Versión estable...
