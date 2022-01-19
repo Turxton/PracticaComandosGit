@@ -2,7 +2,7 @@ Hola, soy Jhonatan, tengo 25 años y estoy aprendiendo a usar Git con Platzi.
 
 Este es el primer archivo base.
 
-Versión estable... "modificiación en el master para generar conflicto"
+Versión estable... "Conflicto solucionado"
 
 ------------------------------   Cabecera   ----------------------------------
 
