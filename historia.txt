@@ -4,6 +4,8 @@ Este es el primer archivo base.
 
 Versión estable...
 
+"Agrego esta modificiación para particar la solución de conflictos"
+
 ------------------------------   Cabecera   ----------------------------------
 
 Este es un texto de prueba en el que estoy practicando los conceptos de ramas
