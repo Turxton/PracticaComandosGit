@@ -2,4 +2,11 @@ Hola, soy Jhonatan, tengo 25 años y estoy aprendiendo a usar Git con Platzi.
 
 Este es el primer archivo base.
 
-Versión estable... Modificación al master sin generar conflicto.
+Versión estable...
+
+------------------------------   Cabecera   ----------------------------------
+
+Este es un texto de prueba en el que estoy practicando los conceptos de ramas
+en Git.
+
+------------------------------------------------------------------------------
